@@ -31,9 +31,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>App Subtitle</string>
+               <string>送菜哥服务商专用APP，实现快速管理送菜哥商品信息和订单信息.</string>
                <key>title</key>
-               <string>App Title</string>
+               <string>菜管家</string>
            </dict>
        </dict>
    </array>
