@@ -25,7 +25,7 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>EAVS2K354A.com.songcaige.app</string>
+               <string>com.isoftstone.songcaige.app</string>
                <key>bundle-version</key>
                <string>1.0.4</string>
                <key>kind</key>
