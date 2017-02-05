@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://192.168.1.100:8443/download/songcaige.ipa</string>
+                   <string>http://192.168.1.100:8080/download/songcaige.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://192.168.1.100:8443/download/songcaige.png</string>
+                   <string>http://192.168.1.100:8080/download/songcaige.png</string>
                </dict>
            </array>
            <key>metadata</key>
@@ -31,9 +31,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>App Subtitle</string>
+               <string>送菜哥服务商专用APP，实现快速管理送菜哥商品信息和订单信息.</string>
                <key>title</key>
-               <string>App Title</string>
+               <string>菜管家</string>
            </dict>
        </dict>
    </array>
