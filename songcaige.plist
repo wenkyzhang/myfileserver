@@ -30,10 +30,8 @@
                <string>1.0.4</string>
                <key>kind</key>
                <string>software</string>
-               <key>subtitle</key>
-               <string>送菜哥服务商专用APP，实现快速管理送菜哥商品信息和订单信息.</string>
                <key>title</key>
-               <string>菜管家</string>
+               <string>caiguanjia</string>
            </dict>
        </dict>
    </array>
